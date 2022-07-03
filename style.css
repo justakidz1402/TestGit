@@ -1,0 +1,13 @@
+.collection{
+    background-color: red;
+}
+
+.collection .card {
+    padding: 20px;
+}
+.collection .content {
+    background-color:green;height: 300px;
+    font-size: 30px;
+    display:flex;justify-content:center;align-items:center;
+    color:#fff;
+}
